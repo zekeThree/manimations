@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Ezeki/manimations/manimations-1/media/videos/GraphPractice/720p30/partial_movie_files/AnimatedExponentalCurve/2016333726_2235150769_223132457.mp4'
+file 'file:C:/Users/Ezeki/manimations/manimations-1/media/videos/GraphPractice/720p30/partial_movie_files/AnimatedExponentalCurve/543634251_180249962_1442778094.mp4'
+file 'file:C:/Users/Ezeki/manimations/manimations-1/media/videos/GraphPractice/720p30/partial_movie_files/AnimatedExponentalCurve/543634251_2874490938_4234158768.mp4'
+file 'file:C:/Users/Ezeki/manimations/manimations-1/media/videos/GraphPractice/720p30/partial_movie_files/AnimatedExponentalCurve/543634251_2651843423_283454786.mp4'
+file 'file:C:/Users/Ezeki/manimations/manimations-1/media/videos/GraphPractice/720p30/partial_movie_files/AnimatedExponentalCurve/543634251_1383310091_1690403917.mp4'
+file 'file:C:/Users/Ezeki/manimations/manimations-1/media/videos/GraphPractice/720p30/partial_movie_files/AnimatedExponentalCurve/543634251_2408024828_511936428.mp4'

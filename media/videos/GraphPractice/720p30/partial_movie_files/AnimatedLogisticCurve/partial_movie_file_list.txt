@@ -1,4 +1,7 @@
 # This file is used internally by FFMPEG.
-file 'file:C:/Users/Ezeki/manimations/manimations-1/media/videos/GraphPractice/720p30/partial_movie_files/AnimatedLogisticCurve/2016333726_2848010057_223132457.mp4'
-file 'file:C:/Users/Ezeki/manimations/manimations-1/media/videos/GraphPractice/720p30/partial_movie_files/AnimatedLogisticCurve/543634251_1754310298_132849751.mp4'
-file 'file:C:/Users/Ezeki/manimations/manimations-1/media/videos/GraphPractice/720p30/partial_movie_files/AnimatedLogisticCurve/543634251_3596285194_1315972943.mp4'
+file 'file:C:/Users/Ezeki/manimations/manimations-1/media/videos/GraphPractice/720p30/partial_movie_files/AnimatedLogisticCurve/2016333726_2235150769_223132457.mp4'
+file 'file:C:/Users/Ezeki/manimations/manimations-1/media/videos/GraphPractice/720p30/partial_movie_files/AnimatedLogisticCurve/543634251_262357490_766406441.mp4'
+file 'file:C:/Users/Ezeki/manimations/manimations-1/media/videos/GraphPractice/720p30/partial_movie_files/AnimatedLogisticCurve/543634251_85309351_699590536.mp4'
+file 'file:C:/Users/Ezeki/manimations/manimations-1/media/videos/GraphPractice/720p30/partial_movie_files/AnimatedLogisticCurve/543634251_3596285194_3491151593.mp4'
+file 'file:C:/Users/Ezeki/manimations/manimations-1/media/videos/GraphPractice/720p30/partial_movie_files/AnimatedLogisticCurve/543634251_440107867_2374375247.mp4'
+file 'file:C:/Users/Ezeki/manimations/manimations-1/media/videos/GraphPractice/720p30/partial_movie_files/AnimatedLogisticCurve/543634251_2408024828_1071597807.mp4'
